@@ -5,6 +5,7 @@ In this project , I have done data analysis of a music store and answered 6 ques
 The Questions are-
 
 Question Set 1 – Easy
+
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
 3. What are top 3 values of total invoice?
@@ -15,7 +16,9 @@ totals
 5. Who is the best customer? The customer who has spent the most money will be
 declared the best customer. Write a query that returns the person who has spent the
 most money
+
 Question Set 2 – Moderate
+
 1. Write query to return the email, first name, last name, & Genre of all Rock Music
 listeners. Return your list ordered alphabetically by email starting with A
 2. Let's invite the artists who have written the most rock music in our dataset. Write a
